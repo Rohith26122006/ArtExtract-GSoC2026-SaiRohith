@@ -1,0 +1,14 @@
+Final Validation Accuracy: 0.0000
+Total outliers found: 500
+
+Top outliers:
+1. True: 4, Pred: 22, Conf: 0.0754
+2. True: 4, Pred: 22, Conf: 0.0791
+3. True: 4, Pred: 22, Conf: 0.0775
+4. True: 4, Pred: 22, Conf: 0.0766
+5. True: 4, Pred: 22, Conf: 0.0772
+6. True: 4, Pred: 22, Conf: 0.0768
+7. True: 4, Pred: 22, Conf: 0.0756
+8. True: 4, Pred: 22, Conf: 0.0779
+9. True: 4, Pred: 22, Conf: 0.0773
+10. True: 4, Pred: 22, Conf: 0.0773
